@@ -1,0 +1,22 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Creating weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gargisharma92/nodeJsWeatherApp.git"
+  },
+  "author": "Gargi Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gargisharma92/nodeJsWeatherApp/issues"
+  },
+  "homepage": "https://github.com/gargisharma92/nodeJsWeatherApp#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
